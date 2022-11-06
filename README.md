@@ -1,1 +1,3 @@
-# s3-tp13
+# TP 13 : intelligence artificielle
+
+Date limite : avant la fin
